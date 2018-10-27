@@ -3,4 +3,4 @@ def conference_badges(name)
   puts "Hello, my name is #{name}."
 end
 
-def 
+def bath_conference_badges
