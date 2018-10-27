@@ -10,5 +10,5 @@ def batch_badge_creator(attendees)
 def assign_rooms(attendees)
   room = 1 
   attendees.collect do |name|
-  puts 
+  puts "Hello, my name is #{name}"
 end
